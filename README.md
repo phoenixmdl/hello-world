@@ -1,2 +1,4 @@
 # hello-world
-Training
+Hi, All
+
+This is Michael, a beginer in programing. Learing how GitHub works. 
